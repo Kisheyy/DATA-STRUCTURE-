@@ -1,4 +1,4 @@
-#include <stdio.h>
+ #include <stdio.h>
 #define MAX 100
 void RestoreHeapUp(int *,int);
 void RestoreHeapDown(int*,int,int);
